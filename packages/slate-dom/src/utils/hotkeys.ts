@@ -23,6 +23,8 @@ const HOTKEYS = {
 }
 
 const APPLE_HOTKEYS = {
+  moveBackward: 'ctrl+b',
+  moveForward: 'ctrl+f',
   moveLineBackward: 'opt+up',
   moveLineForward: 'opt+down',
   moveWordBackward: 'opt+left',
